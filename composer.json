@@ -3,6 +3,12 @@
     "description": "Filter manager bundle for product lists",
     "type": "symfony-bundle",
     "homepage": "http://ongr.io",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:arturLitvinavicius/ElasticsearchBundle.git"
+        } 
+    ],
     "license": "MIT",
     "authors": [
         {
